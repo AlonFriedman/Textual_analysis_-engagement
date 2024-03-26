@@ -42,7 +42,6 @@ def preprocess_text(text):
     # ... (text preprocessing logic, currently commented out)
     return text  # Returning the original text if not processed
 
-# Example function to apply NLP tasks (can be removed if not needed)
 def analyze_text(text):
     """
     Analyzes the text, performing NLP tasks such as POS tagging (optional).
