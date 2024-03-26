@@ -37,6 +37,6 @@ def generate_student_table(filepath):
     # Create and return pandas DataFrame as the student table
     return pd.DataFrame(table_data)
 
-# Example usage (replace 'your_data_file.xlsx' with your actual file path)
+# Generate the table 
 student_table = generate_student_table('your_data_file.xlsx')
 print(student_table)  # Print the student table as a DataFrame
