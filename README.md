@@ -4,7 +4,7 @@ This folder contains Python code specifically designed for conducting textual an
 ---data_processing.py
 ---stat_analysis.py
 ---generate_a_table.py
----figure_4.py  # Based on analysis 
----figure_5.py  # Based on analysis 
----figure_6.py  # Based on analysis
+---figure_4.py  
+---figure_5.py  
+---figure_6.py  
 
