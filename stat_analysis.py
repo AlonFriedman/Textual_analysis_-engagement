@@ -109,4 +109,4 @@ if __name__ == "__main__":
 
   print("Adjectives Comparison:")
   print("  First Project:", comparison_result['adjectives']['first_project'])
-  print("  Final Project:", comparison_result['adjectives']['final_project
+  print("  Final Project:", comparison_result['adjectives']['final_project'])
